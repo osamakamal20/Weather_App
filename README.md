@@ -8,6 +8,6 @@ We have developed a cutting-edge weather app using Flutter, providing users with
 
 Key features include:
 
-Current weather conditions 🌡️
-Hourly and daily forecasts 🕒
-Weather alerts for timely notifications ⚠️
+a: Current weather conditions 🌡️
+b: Hourly and daily forecasts 🕒
+c: Weather alerts for timely notifications ⚠️
